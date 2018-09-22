@@ -13,15 +13,15 @@ How to Github
 
 여기 깃허브의 문턱을 막 밟은 여러분을 위해 가이드를 제시해드리겠습니다.
 
-[지금 시작합시다.](./social-register)
+[지금 시작합시다.](./social-register.md)
 
 ## 하위 문서 목록
 ### 시작하기
- * [가입하기](./social-register)
+ * [가입하기](./social-register.md)
 
 
 ### 소셜기능
- * [프로필 편집하기](./social-profile)
+ * [프로필 편집하기](./social-profile.md)
 
 ### 깃
  * [깃?](#)
